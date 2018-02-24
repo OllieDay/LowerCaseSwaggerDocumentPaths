@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>LowerCaseSwaggerDocumentPaths</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Ollie Day</Authors>
+    <Title>LowerCaseSwaggerDocumentPaths</Title>
+    <Description>Generate lower case Swagger document paths in ASP.NET Core.</Description>
+    <ReleaseNotes>See https://github.com/OllieDay/LowerCaseSwaggerDocumentPaths/releases</ReleaseNotes>
+    <Copyright>Copyright 2018 (c) Ollie Day</Copyright>
+    <PackageTags>Swagger</PackageTags>
+    <LicenseUrl>https://github.com/OllieDay/LowerCaseSwaggerDocumentPaths/LICENSE</LicenseUrl>
+    <ProjectUrl>https://github.com/OllieDay/LowerCaseSwaggerDocumentPaths</ProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
